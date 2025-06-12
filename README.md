@@ -8,6 +8,8 @@
 [![Star Wars API](https://img.shields.io/badge/StarWarsAPI-000000?style=for-the-badge&logo=starwars&logoColor=white)](https://swapi.dev)
 [![GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/StarWars-Explorer/)
+
 ## Description
 
 **Star Wars Explorer** is a full-featured web application that uses the open source [Star Wars API (SWAPI)](https://swapi.dev) to help users explore the Star Wars universe. With this app you can explore starships, vehicles, characters, planets, and more through a rich, interactive interface.
